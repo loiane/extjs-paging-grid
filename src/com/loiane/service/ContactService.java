@@ -22,7 +22,7 @@ public class ContactService {
 
 	/**
 	 * Get List of contacts from database
-	 * @param start firt result to get from database
+	 * @param start first result to get from database
 	 * @param limit max of result to bring from database
 	 * @return list of contacts
 	 */
